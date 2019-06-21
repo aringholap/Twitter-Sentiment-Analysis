@@ -1,0 +1,117 @@
+			sentiment analysis
+
+1.introduction
+2.objective
+3.theory
+4.required analysis
+5.design planning 
+6.implementaton
+7.system requirement
+8.testing
+9.maintenance
+10.advantages and disadvantages
+11.future scope
+12.conclusion
+
+			1.introduction
+As sentimental analysis has improved in the last few decade?s so has
+its applications. Sentimental analysis[1][3] is now being used from
+specific product marketing to anti social behavior recognition. The
+advances in facebook ,twitter , youtube and other microbloging and
+social networking sites have not only contributed change to the social
+sites but have fundamentally changed the way we use these sites
+and how we share our feelings, our views with the wider audience.
+4
+Millions of messages are appearing daily in popular web-sites that
+provide services for microblogging. Authors of those messages write
+about their life, share opinions on variety of topics and discuss
+current issues. Because of a free format of messages and an easy
+accessibility of microblogging platforms, Internet users tend
+to shift from traditional communication tools (such as traditional
+blogs or mailing lists) to microblogging services. As more and more
+users post about products and services they use, or express their
+political and religious views, microblogging web- sites become
+valuable sources of people?s opinions and sentiments. Such data can
+be efficiently used for adaptive user interface?s.[2]
+Data from these sources can be used in opinion mining and
+sentiment analysis tasks. For example, we may be interested about
+Questions about an individual:
+• What do people think about this persons status post(comments) ?
+• How positive (or negative) are people about it?
+For our research purposes we will be targeting a specific Facebook
+fan page / wall post to collect corpus data, then use this data to
+determine a users mood so we can highlight whether they are in a
+positive or neutral or negative mood and determine set actions for
+each out come.
+For example, in the case the user has a bad mood facebook can
+suggest an application like lifebox, games like cityville etc. or try
+stimulate conversation with a use who is in a better mood than our
+subject by suggesting their posts more frequently. It can also change
+the layout(Background, themes, etc.) more frequently.
+We perform a linguistic analysis of our corpus and we show how to
+build a sentiment classifier that uses the collected corpus as training
+data.
+
+					2.objective
+
+The objective of this project is to show how sentimental analysis can
+help improve the user experience over a social network or system interface. The
+learning algorithm will learn what our emotions are from statistical data then
+determine the mood. After that it will change our social interactions accordingly
+on our social network sites or other interfaces like desktop or system services or
+web-pages. Suppose you are bored or sad ,in the case of social networks one
+thing the computer could do is to be more suggestive of things that lighten your
+mood and change interactions like backgrounds color's ,icons services. The site
+could automatically try suggesting interactions with people and applications that
+would help improve the mood, while hiding others that might make it worse. The
+project aims to implement these in the social network community as well as
+services and interfaces of our systems, while making our lives better and our
+experience richer and efficient.
+					
+                       10.advantages and disadvantages
+i)advantages
+a.Sentiment analysis is a useful tool for any organization or group for which public sentiment or attitude towards them is important for their success - whichever way that success is defined.
+
+b.On social media, blogs, and online forums millions of people are busily discussing and reviewing businesses, companies, and organizations. And those opinions are being ‘listened to’ and analysed.
+
+c.Those being discussed are making use of this enormous amount of data by using computer programs that don’t just locate all mentions of their products, services, or business, but also determine the emotions and attitudes behind the words being used.
+
+d.The results from sentiment analysis help businesses understand the conversations and discussions taking place about them, and helps them react and take action accordingly.
+
+e.They can quickly identify any negative sentiments being expressed, and turn poor customer experiences into very good ones.
+
+f.They can create better products and services, and they can formulate the marketing messages they send out according to the sentiments being expressed by their target audience or customers.
+
+g.By listening to and analysing comments on Facebook and Twitter, local government departments can gauge public sentiment towards their department and the services they provide, and use the results to improve services such as parking and leisure facilities, local policing, and the condition of roads.
+
+h.Universities can use sentiment analysis to analyze student feedback and comments garnered either from their own surveys, or from online sources such as social media. They can then use the results to identify and address any areas of student dissatisfaction, as well as identify and build on those areas where students are expressing positive sentiments.
+
+ii)disadvantages
+a.Sentiment analysis tools can identify and analyse many pieces of text automatically and quickly.But computer programs have problems recognizing things like sarcasm and irony, negations, jokes, and exaggerations - the sorts of things a person would have little trouble identifying. And failing to recognize these can skew the results.'Disappointed' may be classified as a negative word for the purposes of sentiment analysis, but within the phrase “I wasn't disappointed", it should be classified as positive.
+b.We would find it easy to recognize as sarcasm the statement "I'm really loving the enormous pool at my hotel!", if this statement is accompanied by a photo of a tiny swimming pool; whereas an automated sentiment analysis tool probably would not, and would most likely classify it as an example of positive sentiment.With short sentences and pieces of text, for example like those you find on Twitter especially, and sometimes on Facebook, there might not be enough context for a reliable sentiment analysis. However, in general, Twitter has a reputation for being a good source of information for sentiment analysis, and with the new increased word count for tweets it's likely it will become even more useful.So, automated sentiment analysis tools do a really great job of analysing text for opinion and attitude, but they're not perfect.
+
+
+
+
+
+
+
+
+
+
+
+					12.conclusion
+The work being done on the topic is vastly narrow and only
+addresses the issue of USER sentimental analysis and not SNA.
+Incorporating this will be the next step in achieving better results. Also
+better incorporation with social Networking sites and other Facilities
+and supposed android devices can help our program to achieve a
+more far-reaching experience.
+City?s, Govt?s and corporations are all opting towards creating happier,
+healthier lives for their citizen?s and customer?s, And sentimental
+analysis over social networks and user interfaces are going to start 
+14
+playing crucial parts in this goal. And a very important and
+unavoidable part for this improvement will be the interface
+improvements that can be achieved via sentimental analysis of user?s.
+
